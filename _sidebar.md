@@ -1,5 +1,6 @@
 - **Getting Started**
   - [Signin Up](./docs/basic-users/signin-up.md)
+  - [Password Reset](./docs/basic-users/signin-up.md)
   - [Programs, Plans and Prices](./docs/basic-users/programs-plans-prices.md)
 
 - **Scraping**
