@@ -36,7 +36,7 @@ This may happen when:
 
 To fix this:
 
-- [Place a new order](./1-placing-a-scraping-order.md) using broader filters
+- [Place a new order](./placing-a-scraping-order.md) using broader filters
 - Use more common keywords
 - Expand your country or headcount filters
 

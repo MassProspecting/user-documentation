@@ -48,7 +48,7 @@ You can upload this file into your outreach tool — or import it back into Mass
 
 ## 🔗 View the LinkedIn Search
 
-The **LinkedIn search** is what you configured in the [step 1 of the new order placing](./1-placing-a-scraping-order.md#step-1--search-for-relevant-posts).
+The **LinkedIn search** is what you configured in the [step 1 of the new order placing](./placing-a-scraping-order.md#step-1--search-for-relevant-posts).
 
 Want to double-check the actual posts matched by your search?
 
