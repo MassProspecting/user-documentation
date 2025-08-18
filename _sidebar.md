@@ -1,3 +1,5 @@
+<img src="./assets/logo.svg" alt="image" width="42px" height="auto" />
+
 - **User Documentation**
   - [Placing a Scraping Order](./docs/basic-users/1-placing-a-scraping-order.md)
   - [Check Your Orders](./docs/basic-users/2-check-your-orders.md)
