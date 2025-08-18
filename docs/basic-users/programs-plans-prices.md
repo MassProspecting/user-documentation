@@ -47,7 +47,7 @@
 ### What's Included?  
 📌 Connect email/social accounts  
 📌 Upload contacts (3K–15K)  
-📌 Apollo/Recon integrations  
+📌 Apollo/Reoon integrations  
 
 ### What's *Not* Included?  
 ✘ No auto-scraping  
@@ -97,7 +97,7 @@
 
 ### 🎁 All Plans Include:  
 - **$1 Trial:** Test-drive with 20 credits (7 days).  
-- **Apollo/Recon Integrations:** Sync with your favorite tools.  
+- **Apollo/Reoon Integrations:** Sync with your favorite tools.  
 
 **👉 Ready to Level Up?** [Check Out Pricing](https://massprospecting.com/main#pricing)  
 
