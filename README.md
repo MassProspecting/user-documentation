@@ -4,15 +4,15 @@
 
 ## Scraping Leads
 
-1. [Placing a Scraping Order](./docu/basic-users/1-placing-a-scraping-order.md)
-2. [Check Your Orders](./docu/basic-users/2-check-your-orders.md)
-3. [Order Alerts](./docu/basic-users/3-order-alerts.md)
-4. [Downloading Your Data](./docu/basic-users/4-downloading-your-data.md)
-5. [Using Personalization](./docu/basic-users/5-using-personalization.md)
-6. [Affiliates Program](./docu/basic-users/6-affiliates-program.md)
-7. [Life-Time Deal](./docu/basic-users/7-ltd.md)
-8. [FAQs](./docu/basic-users/8-faqs.md)
-9. [Internals](./docu/basic-users/9-internals.md)
+1. [Placing a Scraping Order](./docs/basic-users/1-placing-a-scraping-order.md)
+2. [Check Your Orders](./docs/basic-users/2-check-your-orders.md)
+3. [Order Alerts](./docs/basic-users/3-order-alerts.md)
+4. [Downloading Your Data](./docs/basic-users/4-downloading-your-data.md)
+5. [Using Personalization](./docs/basic-users/5-using-personalization.md)
+6. [Affiliates Program](./docs/basic-users/6-affiliates-program.md)
+7. [Life-Time Deal](./docs/basic-users/7-ltd.md)
+8. [FAQs](./docs/basic-users/8-faqs.md)
+9. [Internals](./docs/basic-users/9-internals.md)
 
 ## Contacting Leads _(soon)_
 
