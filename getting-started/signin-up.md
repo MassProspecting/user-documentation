@@ -15,13 +15,13 @@ Getting started with MassProspecting takes only a few seconds.
 
 - You will be logged in instantly.  
 - Your account is ready to use.  
-- You can immediately [place your first scraping order](./placing-a-scraping-order.md).  
+- You can immediately [place your first scraping order](../scraping/placing-a-scraping-order.md).  
 
 ---
 
 ## About Your Password
 
 - A random-password is generated automatically.  
-- If you need to log in from another device, you will have to [reset your password](./reset-password.md).  
+- If you need to log in from another device, you will have to [reset your password](../getting-started/reset-password.md).  
 
 ---
