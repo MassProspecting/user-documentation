@@ -4,9 +4,11 @@
 
 ### 🔐 Should I connect my own LinkedIn account for scraping?
 
-No. MassProspecting provides built-in LinkedIn accounts for scraping, so you don’t need to connect or risk your personal account.
+If you joined one of our DFY programs, then no. MassProspecting provides built-in LinkedIn and Email accounts for scraping and sending messages, so you don’t need to connect or risk your personal account.
 
 This keeps your LinkedIn profile safe while still getting fresh, real-time data from the platform.
+
+Refere to our [Programs, Plans and Prices](../getting-started/programs-plans-prices.md) to understand difference between **Done-For-You** and **Self-Service** (a.k.a. **SaaS**) programs.
 
 ---
 
@@ -66,9 +68,8 @@ For example, someone posting about hiring, launching a new service, raising fund
 
 ---
 
-### 🔁 Do my credits roll over?
+### 🔁 Do my credits expire?
 
-Yes — but only for 3 months.
+Yes, all unused credits expire at the end of each monthly billing cycle.
 
-If credits go unused for more than 3 consecutive months, they will expire. Make sure to keep your scraping orders running so you make full use of your credits.
-
+To maximize your plan's value, we recommend using your credits regularly throughout the month as they do not carry over to the next billing period.
