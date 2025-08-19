@@ -1,70 +1,75 @@
-# GMail
+# Connecting GMail for Sending Cold Emails
 
-## 1. Enable 2-Step Verification on Your Google Account
+![Integrations Overview](assets/gmail-01.png)
 
-1. **Open your Google Account settings**  
-   Go to <https://myaccount.google.com> and sign in with your Gmail credentials.
+GMail integration is your outreach engine. Connecting your GMail accounts allows MassProspecting to send personalized cold emails, track replies, and manage conversations directly from your inbox. This setup is crucial for running effective email campaigns while maintaining control over your sending domains.
 
-2. **Navigate to Security**  
-   In the left-hand menu, click **Security**.
+## Step-by-Step Connection Guide
 
-3. **Turn on 2-Step Verification**  
-   Under **“How you sign in to Google”**, select **2-Step Verification**, then click **Get started** and re-enter your password.
+### 1. Access the Integrations Page
+Navigate to the GMail integration page in your MassProspecting dashboard:
+**https://massprospecting.com/app/integrations/gmail**
 
-4. **Choose and configure your second step**  
-   - **Google prompts** (push notification to your phone)  
-   - **Authenticator app** (TOTP codes via Google Authenticator or similar)  
-   - **SMS text message or voice call**  
-   
-   Follow the on-screen prompts to complete setup.
+### 2. Check Available Slots
+On the integrations page, you'll see the status of the GMail service. The interface shows:
 
-5. **Verify and finish**  
-   Enter the code or approve the prompt when requested. Once verified, click **Turn on** to enable 2FA.
+*   **Self-service slots (`self`)**: Available for your own email connections (marked for setup)
+*   **DFY slots (`fly`)**: Managed by the MassProspecting team (will be filled for you)
 
----
+The notation indicates:
+*   `(self: X/Y)` - Your available/used self-service slots (e.g., `0/4` means 0 used, 4 available)
+*   `(fly: X/Y)` - Available/used DFY slots
+*   The total count shows overall connection capacity
 
-## 2. Create an App Password
+### 3. Connect Your GMail Account
+Find an available **self-service** slot and click the **plus button (+)** to add your email credentials.
 
-## 2. Create an App Password
+### 4. Enter Your Email and App Password
+![Connect GMail Modal](assets/gmail-02.png)
 
-> **Note:** App passwords are available only if you have turned on 2-Step Verification and are not using a completely passwordless (passkey-only) sign-in.  
+You'll be prompted to enter your GMail address and an App Password (not your regular Gmail password).
 
-1. **Go into your 2-Step Verification settings**  
-   - On the Security page, click the **2-Step Verification** card (it may say “On since …”).  
-   - Re-enter your password if prompted.
+**How to Generate a GMail App Password:**
 
-2. **Find the App passwords link**  
-   - Once inside the 2-Step Verification panel, scroll down to the **“App passwords”** section.  
-   - Click **App passwords**.  
+1.  **Enable 2-Step Verification:**
+    *   Go to your Google Account settings: [https://myaccount.google.com/security](https://myaccount.google.com/security)
+    *   Under "Signing in to Google," select **2-Step Verification**
+    *   Follow the steps to enable it
 
-3. **Generate a new App Password**  
-   - **Select app**: choose **Mail**  
-   - **Select device**: choose your application or **Other (Custom name)** (e.g. “Cold-email Tool”)  
-   - Click **Generate**, then copy the 16-character password.
+2.  **Generate an App Password:**
+    *   Return to the Google Account security page
+    *   Under "2-Step Verification," find **App passwords**
+    *   Sign in again if prompted
+    *   Select **Mail** as the app and **Other** as the device (you can name it "MassProspecting")
+    *   Click **Generate**
+    *   Copy the 16-character password that appears
 
-4. **Use this password in your tool**  
-   In your third-party email tool’s SMTP settings, enter:
-   ```text
-   Username:   your-full-gmail@address.com
-   Password:   <the 16-character App Password>
+3.  **Enable IMAP:**
+    *   In Gmail, click the gear icon ⚙️ and select **See all settings**
+    *   Go to the **Forwarding and POP/IMAP** tab
+    *   Under "IMAP access," select **Enable IMAP**
+    *   Click **Save Changes**
 
----
+> For detailed Google documentation, visit: [Sign in with App Passwords](https://support.google.com/accounts/answer/185833)
 
-## 3. Configure SMTP Relay in Google Workspace
+### 5. Complete the Connection
+Paste the 16-character App Password (not your regular Gmail password) into the MassProspecting field and click **Connect GMail**.
 
-> **Prerequisite:** You must have a Google Workspace (formerly G Suite) account with administrator privileges and a verified domain.
+### 6. Managing Your Connections
+To release an occupied slot (e.g., to remove an email account), click the **Disconnect** button associated with that specific slot.
 
-1. **Sign in to the Admin console**  
-   Go to <https://admin.google.com> and log in with a super-administrator account.
+## Key Benefits: Seamless Email Outreach
 
-2. **Locate the SMTP relay service**  
-   Navigate to **Apps → Google Workspace → Gmail → Routing**. Scroll to **SMTP relay service** and click **Configure** (or **Add another rule**).
+This integration enables:
+*   **Direct Sending:** Send cold emails directly from your GMail accounts
+*   **Reply Tracking:** Monitor and track prospect responses in real-time
+*   **Domain Warm-up:** Gradually increase sending volume to maintain good deliverability
+*   **Unified Dashboard:** Manage all email outreach from one platform
 
-3. **Define your relay setting**  
-   - **Name**: e.g. “Cold-Email Relay”  
-   - **Allowed senders**: choose **Only addresses in my domains** (or **Only registered app users**)  
-   - **Authentication**: check **Only accept mail from the specified IP addresses**, then **Add** each IP address used by your third-party tool  
-   - **Require TLS encryption**: check this to enforce secure connections  
-   - Click **Save**
+## Troubleshooting
 
-4. **Take note of relay details**  
+*   **Authentication Errors:** Ensure you're using an App Password, not your regular Gmail password
+*   **IMAP Issues:** Verify IMAP is enabled in your Gmail settings
+*   **Sending Limits:** Be aware of Gmail's daily sending limits (500 recipients per day for regular accounts)
+
+For problems with **DFY slots**, contact our support team, as we manage those connections for you.

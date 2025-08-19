@@ -15,9 +15,9 @@
   - [Connecting Apollo for Leads Enrichment](apollo.md)
   - [Connecting Reoon for Email Verification](reoon.md)
   - [Connecting OpenAI for Outreach Personalization](openai.md)
-  - [Connecting GMail Profiles for Sending Cold Emails](gmail.md)
-  - [Connecting GSuite Profiles for Sending Cold Emails](gsuite.md)
-  - [Connecting LinkedIn Profiles for Scraping and Sending Messages](linkedin.md)
+  - [Connecting GMail for Sending Cold Emails](gmail.md)
+  - [Connecting GSuite for Sending Cold Emails](gsuite.md)
+  - [Connecting LinkedIn for Scraping and Sending Messages](linkedin.md)
 
 - **Messaging**
   - [FollowUps](followups.md)
