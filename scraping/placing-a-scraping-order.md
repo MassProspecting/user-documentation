@@ -1,6 +1,6 @@
 # Placing a Scraping Order
 
-Welcome to MassProspecting! This guide will help you place your first scraping order in just a few minutes.
+This guide will help you place your first scraping order in just a few minutes.
 
 📺 [Watch the demo video](https://youtu.be/UzBZdIxyHB0)
 
@@ -9,6 +9,9 @@ Welcome to MassProspecting! This guide will help you place your first scraping o
 ## Overview
 
 In MassProspecting, scraping orders allow you to automate lead generation by specifying the type of people and posts you want to target on LinkedIn.
+
+You can place your scraping order here:
+[https://massprospecting.com/app/campaigns/new/linkedin-feed-signals](https://massprospecting.com/app/campaigns/new/linkedin-feed-signals)
 
 Placing an order involves 3 steps:
 
@@ -66,7 +69,7 @@ MassProspecting will show a sample LinkedIn post that you can use to try your AI
 
 Once your filters and message are ready, hit "Place Order".
 
-You can monitor it under the Orders tab.
+You can [monitor it under in the campaigns screen](../scraping/check-your-orders.md).
 
 🎯 You’re now scraping fresh leads in real time!
 

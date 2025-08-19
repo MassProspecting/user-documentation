@@ -2,6 +2,9 @@
 
 Once you’ve placed a scraping order, you can track its performance and manage it from your dashboard.
 
+You can check all your orders here:
+[https://massprospecting.com/app/campaigns](https://massprospecting.com/app/campaigns)
+
 ---
 
 ## 📊 Order Statistics
@@ -10,7 +13,7 @@ Each order box shows 3 key metrics:
 
 ![Order Statistics](../assets/dashboard-01.png)
 
-- 🟣 Leads Discovered: Total number of posts that showed up using your [LinkedIn search](#-view-the-linkedin-search).
+- 🟣 Leads Discovered: Total number of posts that showed up using your [LinkedIn search](#view-the-linkedin-search).
 - 🟢 % Leads Processed: The percentage of discovered leads that have already been analyzed and enriched.
 - 🔵 Valid Emails After Filters: How many of those leads had valid emails and passed your filters (e.g. country, headcount, etc).
 
@@ -28,7 +31,7 @@ This is useful if you want to conserve credits or make adjustments before contin
 
 ---
 
-## ⬇️ Download Your Leads
+## Download Your Leads
 
 Click the download icon to export all enriched leads from the order.
 
@@ -46,9 +49,9 @@ You can upload this file into your outreach tool — or import it back into Mass
 
 ---
 
-## 🔗 View the LinkedIn Search
+## View the LinkedIn Search
 
-The **LinkedIn search** is what you configured in the [step 1 of the new order placing](./placing-a-scraping-order.md#step-1--search-for-relevant-posts).
+The **LinkedIn search** is what you configured in the [step 1 of the new order placing](../scraping/placing-a-scraping-order.md).
 
 Want to double-check the actual posts matched by your search?
 
