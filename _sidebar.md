@@ -1,28 +1,29 @@
 - **Getting Started**
-  - [Signin Up](signin-up.md)
-  - [Password Reset](reset-password.md)
-  - [Programs, Plans and Prices](programs-plans-prices.md)
+  - [Signin Up](getting-started/signin-up.md)
+  - [Password Reset](getting-started/reset-password.md)
+  - [Programs, Plans and Prices](getting-started/programs-plans-prices.md)
+  - [FAQs](getting-started/faqs.md)
 
 - **Scraping**
-  - [Placing a Scraping Order](placing-a-scraping-order.md)
-  - [Check Your Orders](check-your-orders.md)
-  - [Order Alerts](order-alerts.md)
-  - [Downloading Your Data](downloading-your-data.md)
-  - [Using Personalization](using-personalization.md)
-  - [Assigning Profiles](assigning-profiles.md)
+  - [Placing a Scraping Order](scraping/placing-a-scraping-order.md)
+  - [Check Your Orders](scraping/check-your-orders.md)
+  - [Order Alerts](scraping/order-alerts.md)
+  - [Downloading Your Data](scraping/downloading-your-data.md)
+  - [Using Personalization](scraping/using-personalization.md)
+  - [Assigning Profiles](scraping/assigning-profiles.md)
 
 - **Integrations**
-  - [Connecting Apollo for Leads Enrichment](apollo.md)
-  - [Connecting Reoon for Email Verification](reoon.md)
-  - [Connecting OpenAI for Outreach Personalization](openai.md)
-  - [Connecting GMail for Sending Cold Emails](gmail.md)
-  - [Connecting GSuite for Sending Cold Emails](gsuite.md)
-  - [Connecting LinkedIn for Scraping and Sending Messages](linkedin.md)
+  - [Connecting Apollo for Leads Enrichment](integrations/apollo.md)
+  - [Connecting Reoon for Email Verification](integrations/reoon.md)
+  - [Connecting OpenAI for Outreach Personalization](integrations/openai.md)
+  - [Connecting GMail for Sending Cold Emails](integrations/gmail.md)
+  - [Connecting GSuite for Sending Cold Emails](integrations/gsuite.md)
+  - [Connecting LinkedIn for Scraping and Sending Messages](integrations/linkedin.md)
 
 - **Messaging**
-  - [FollowUps](followups.md)
-  - [MasterBox](masterbox.md)
-  - [Leads](leads.md)
+  - [FollowUps](messaging/followups.md)
+  - [MasterBox](messaging/masterbox.md)
+  - [Leads](messaging/leads.md)
 
 - **Affiliates**
-  - [Affiliates Program](affiliates-program.md)
+  - [Affiliates Program](affiliates/affiliates-program.md)
