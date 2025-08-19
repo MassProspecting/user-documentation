@@ -16,13 +16,10 @@ Find the campaign you want to configure from your list of existing campaigns. Ea
 ![Campaign Overview](../assets/assigning-profiles-02.png)
 
 ### 3. Identify Assigned Profiles
-Scroll to the bottom of your campaign card to the **"Sending Profiles"** section. Here you'll see:
-- Currently assigned profiles (e.g., "Mary Williams", "David Brown")
-- Available slots for additional profiles
-- The current status of your campaign outreach
+Scroll to the bottom of your campaign card to the **"Sending Profiles"** section. Here you'll see the currently assigned profiles (e.g., "Mary Williams", "David Brown").
 
 ### 4. Add a Profile to Your Campaign
-Click the **plus button (+)** next to the Sending Profiles section to assign a new profile. This will open a modal where you can select from your available connected accounts (Gmail, GSuite, LinkedIn, etc.).
+Click the **plus button (+)** next to the Sending Profiles section to assign a new profile. This will open a dropdown list where you can select from your available connected accounts (Gmail, GSuite, LinkedIn, etc.).
 
 ### 5. Remove a Profile from a Campaign
 To remove a profile from a campaign, click the **red remove icon (×)** next to the profile name you wish to disconnect. This immediately stops that profile from sending further messages for this campaign.
