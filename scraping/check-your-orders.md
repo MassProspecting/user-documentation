@@ -8,7 +8,7 @@ Once you’ve placed a scraping order, you can track its performance and manage 
 
 Each order box shows 3 key metrics:
 
-![Order Statistics](assets/dashboard-01.png)
+![Order Statistics](../assets/dashboard-01.png)
 
 - 🟣 Leads Discovered: Total number of posts that showed up using your [LinkedIn search](#-view-the-linkedin-search).
 - 🟢 % Leads Processed: The percentage of discovered leads that have already been analyzed and enriched.
@@ -22,7 +22,7 @@ You can use these stats to understand how well your filters are performing — a
 
 You can pause or resume any scraping order anytime using the button on the top right of the order card.
 
-![Pause Button](assets/dashboard-02.png)
+![Pause Button](../assets/dashboard-02.png)
 
 This is useful if you want to conserve credits or make adjustments before continuing.
 
@@ -32,7 +32,7 @@ This is useful if you want to conserve credits or make adjustments before contin
 
 Click the download icon to export all enriched leads from the order.
 
-![Download Leads](assets/dashboard-03.png)
+![Download Leads](../assets/dashboard-03.png)
 
 The CSV file includes:
 
@@ -54,7 +54,7 @@ Want to double-check the actual posts matched by your search?
 
 Click the 🔗 icon to open the original LinkedIn feed query in a new tab:
 
-![LinkedIn Feed Link](assets/dashboard-04.png)
+![LinkedIn Feed Link](../assets/dashboard-04.png)
 
 ---
 

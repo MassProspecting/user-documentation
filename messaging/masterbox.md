@@ -1,6 +1,6 @@
 # Managing Conversations in MasterBox
 
-![Campaign Overview](assets/masterbox-01.png)
+![Campaign Overview](../assets/masterbox-01.png)
 
 MasterBox is your centralized command center for all prospect conversations. This powerful interface allows you to manage ongoing dialogues, send manual messages, update lead information, and coordinate multi-campaign outreach—all from a single, unified dashboard.
 
@@ -17,7 +17,7 @@ Find the campaign containing the conversations you want to manage from your list
 Click the **"View Chats"** link on your campaign card to access the MasterBox conversation interface.
 
 ### 4. Navigate the MasterBox Interface
-![MasterBox Interface](assets/masterbox-02.png)
+![MasterBox Interface](../assets/masterbox-02.png)
 
 The MasterBox is divided into three main panels:
 

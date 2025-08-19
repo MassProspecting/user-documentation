@@ -35,7 +35,7 @@ Introducing some of the features of MassProspecting.
 
 MassProspecting provides several automated lead scraping features that simplify the process of gathering data from various platforms. Below are some of the key features shown in the screenshots:
 
-![Lead Scraping Sources Overview](assets/beta-test.1.1%20-%20leads%20scraping%20sources%201.jpeg)
+![Lead Scraping Sources Overview](../assets/beta-test.1.1%20-%20leads%20scraping%20sources%201.jpeg)
 
 MassProspecting offers multiple lead scraping tools, including:
 
@@ -49,7 +49,7 @@ MassProspecting also provides an automation rules feature that allows you to cre
 
 #### 2.1 Rule Management Overview
 
-![Automation Rules Overview](assets/beta-test.2.1%20-%20automation%20rules%201.jpeg)
+![Automation Rules Overview](../assets/beta-test.2.1%20-%20automation%20rules%201.jpeg)
 
 The rules management interface provides a list of all created rules, with details such as:
 
@@ -61,7 +61,7 @@ The rules management interface provides a list of all created rules, with detail
 
 #### 2.2 Creating and Editing Rules
 
-![Rule Creation and Editing](assets/beta-test.2.2%20-%20automation%20rules%202.jpeg)
+![Rule Creation and Editing](../assets/beta-test.2.2%20-%20automation%20rules%202.jpeg)
 
 To create or edit a rule, the interface allows you to:
 
@@ -75,7 +75,7 @@ These features allow for powerful automation capabilities, making lead managemen
 
 The Unibox feature in MassProspecting provides a consolidated interface for managing communication with leads from different channels.
 
-![Unibox Communication Management](assets/beta-test.3.1%20-%20unibox.jpeg)
+![Unibox Communication Management](../assets/beta-test.3.1%20-%20unibox.jpeg)
 
 #### 3.1 Unified Inbox for All Channels
 
@@ -95,7 +95,7 @@ The Unibox feature ensures that you never miss an important message and can effi
 
 The MassProspecting Marketplace allows you to rent access to other people's social accounts and use them as your "Sales Assistants" to boost your outreach capabilities.
 
-![Marketplace for Profiles](assets/beta-test.4.1%20-%20marketplace%20of%20sending%20profiles.jpeg)
+![Marketplace for Profiles](../assets/beta-test.4.1%20-%20marketplace%20of%20sending%20profiles.jpeg)
 
 #### 4.1 Renting Social Accounts
 
@@ -116,7 +116,7 @@ This feature is designed to make your sales outreach more efficient by increasin
 
 The Profiles Dashboard in MassProspecting provides a centralized view of all available profiles used for outreach, enrichment, scraping, and other RPA activities. 
 
-![Profiles Dashboard](assets/beta-test.5.1%20-%20sending%20profiles%20dashboard.jpeg)
+![Profiles Dashboard](../assets/beta-test.5.1%20-%20sending%20profiles%20dashboard.jpeg)
 
 #### 5.1 Profile List Overview
 
@@ -141,7 +141,7 @@ MassProspecting provides a comprehensive Leads Management system, enabling you t
 
 #### 6.1 Lead Overview and Search Filters
 
-![Leads Management Overview](assets/beta-test.6.1%20-%20leads%20management%201.png)
+![Leads Management Overview](../assets/beta-test.6.1%20-%20leads%20management%201.png)
 
 - **Lead Information**: The leads dashboard displays key information such as social profiles (LinkedIn, Facebook, Email), first and last name, timezone, job title, and company. This helps you quickly access important details about each lead.
 - **Search and Filters**: You can easily filter leads using keywords, such as names or tags.
@@ -149,7 +149,7 @@ MassProspecting provides a comprehensive Leads Management system, enabling you t
 
 #### 6.2 Tagging Leads for Better Organization
 
-![Lead Tagging](assets/beta-test.6.2%20-%20leads%20management%202.jpeg)
+![Lead Tagging](../assets/beta-test.6.2%20-%20leads%20management%202.jpeg)
 
 - **Add and Remove Tags**: Tags can be added to leads to better organize them based on specific attributes, making it easier to manage campaigns and target specific groups.
 - **Create New Tags**: You can create new tags as needed to categorize leads in a customized manner. This allows for flexibility in organizing leads based on changing campaign requirements.

@@ -1,6 +1,6 @@
 # Connecting LinkedIn for Scraping and Sending Messages
 
-![Integrations Overview](assets/linkedin-01.png)
+![Integrations Overview](../assets/linkedin-01.png)
 
 LinkedIn integration is your gateway to social selling at scale. By connecting LinkedIn profiles, MassProspecting can read feed activities, capture valuable engagement signals, and drive AI-assisted outreach through connection requests and messages, transforming your LinkedIn presence into a powerful lead generation channel.
 
@@ -25,7 +25,7 @@ The notation indicates:
 Find an available **self-service** slot and click the **plus button (+)** to configure your connection.
 
 ### 4. Enter Account and Proxy Credentials
-![Connect LinkedIn Modal](assets/linkedin-02.png)
+![Connect LinkedIn Modal](../assets/linkedin-02.png)
 
 You'll need to provide your LinkedIn credentials and proxy information for secure and reliable access.
 

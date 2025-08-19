@@ -7,7 +7,7 @@ Getting started with MassProspecting takes only a few seconds.
 1. Go to [massprospecting.com](https://massprospecting.com)  
 2. Enter your email address and submit  
 
-![Signin Up to MassProspecting](assets/signin-up-01.png)
+![Signin Up to MassProspecting](../assets/signin-up-01.png)
 
 ---
 

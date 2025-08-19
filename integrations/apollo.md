@@ -1,6 +1,6 @@
 # Connecting Apollo for Lead Enrichment
 
-![Integrations Overview](assets/apollo-01.png)
+![Integrations Overview](../assets/apollo-01.png)
 
 Apollo.io serves as our primary data enrichment engine within MassProspecting. We don't use Apollo to find leads initially. Instead, we use it to *append critical contact information*—like verified email addresses, direct dial phone numbers, and other professional details—to the high-intent leads we've already identified and scraped from LinkedIn.
 
@@ -16,7 +16,7 @@ On the integrations page, you'll see a list of available services, including Apo
 *   **Self-service slots (`self`)**: Available for your own API connections (marked with dashed borders).
 *   **DFY slots (`fly` or `dly`)**: Managed by the MassProspecting team (will be filled for you).
 
-![Integration Slots](assets/apollo-03.png)
+![Integration Slots](../assets/apollo-03.png)
 
 The notation indicates:
 *   `(self: X/Y)` - Your available/used self-service slots.
@@ -27,7 +27,7 @@ The notation indicates:
 Find an available **self-service** slot (marked with a dashed border) and click the **plus button (+)** to add your API key.
 
 ### 4. Enter Your API Key
-![Connect Apollo](assets/apollo-02.png)
+![Connect Apollo](../assets/apollo-02.png)
 
 You'll be prompted to enter your Apollo API Key.
 

@@ -1,6 +1,6 @@
 # Managing Leads
 
-![Campaign Overview](assets/leads-01.png)
+![Campaign Overview](../assets/leads-01.png)
 
 The Leads section is your central hub for managing all prospects discovered through scraping or imported into your campaigns. Here you can review, filter, edit, and organize your leads before and during outreach campaigns.
 
@@ -20,7 +20,7 @@ Find the campaign containing the leads you want to manage from your list of exis
 Click the **"View Leads"** link on your campaign card to access all leads associated with that campaign.
 
 ### 4. Navigate the Leads Interface
-![Leads List View](assets/leads-04.png)
+![Leads List View](../assets/leads-04.png)
 
 The leads screen is divided into two main panels:
 
@@ -35,7 +35,7 @@ The leads screen is divided into two main panels:
 - Displays all available contact points and social profiles
 
 ### 5. Filter Your Leads
-![Leads Filters](assets/leads-05.png)
+![Leads Filters](../assets/leads-05.png)
 
 Use the **filter icon in the top-right corner** of the left panel to narrow down your leads by:
 - Campaign association
@@ -53,7 +53,7 @@ Click on any lead in the left panel to view their complete details in the right 
 - Verify contact data accuracy
 
 ### 7. Manage Campaign Assignments
-![Campaign Assignment](assets/leads-04.png)
+![Campaign Assignment](../assets/leads-04.png)
 
 In the right panel, use the **campaigns dropdown list** to:
 - See all campaigns where the lead has been scraped or reached

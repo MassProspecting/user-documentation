@@ -1,6 +1,6 @@
 # Connecting Reoon for Email Verification
 
-![Integrations Overview](assets/reoon-01.png)
+![Integrations Overview](../assets/reoon-01.png)
 
 Reoon Email Verifier is our final quality control checkpoint *after* [Apollo enrichment](apollo.md) 
 
@@ -20,7 +20,7 @@ On the integrations page, you'll see a list of available services, including Reo
 *   **Self-service slots (`self`)**: Available for your own API connections.
 *   **DFY slots (`dly` or `fly`)**: Managed by the MassProspecting team (will be filled for you).
 
-![Integration Slots Status](assets/reoon-03.png)
+![Integration Slots Status](../assets/reoon-03.png)
 
 The notation indicates:
 *   `(self: X/Y)` - Your available/used self-service slots (e.g., `0/2` means 0 used, 2 available).
@@ -31,7 +31,7 @@ The notation indicates:
 Find an available **self-service** slot and click the **plus button (+)** to add your API key.
 
 ### 4. Enter Your API Key
-![Connect Reoon Modal](assets/reoon-02.png)
+![Connect Reoon Modal](../assets/reoon-02.png)
 
 You'll be prompted to enter your Reoon API Key in the modal that appears.
 
@@ -50,7 +50,7 @@ If you have more than one available slot, **use all of them**. Connecting multip
 ### 6. Managing Your Connections
 To release an occupied slot (e.g., to use a new API key or troubleshoot), click the **Disconnect** button associated with that specific slot.
 
-![Disconnect Button](assets/reoon-03.png)
+![Disconnect Button](../assets/reoon-03.png)
 
 ## Key Benefit: Protect Your Sender Reputation
 

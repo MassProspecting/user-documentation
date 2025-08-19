@@ -1,6 +1,6 @@
 # Assigning Profiles to Campaigns
 
-![Campaign with Assigned Profiles](assets/assigning-profiles-01.png)
+![Campaign with Assigned Profiles](../assets/assigning-profiles-01.png)
 
 Profile assignment is a critical step in launching your outreach campaigns. By connecting sending profiles (like Gmail or LinkedIn accounts) to your campaigns, you determine which identity will be used for sending messages, ensuring consistency and proper attribution for your outreach efforts.
 
@@ -13,7 +13,7 @@ Navigate to the campaigns page in your MassProspecting dashboard:
 ### 2. Locate Your Campaign
 Find the campaign you want to configure from your list of existing campaigns. Each campaign card displays key metrics like leads discovered, processing status, and valid emails found.
 
-![Campaign Overview](assets/assigning-profiles-02.png)
+![Campaign Overview](../assets/assigning-profiles-02.png)
 
 ### 3. Identify Assigned Profiles
 Scroll to the bottom of your campaign card to the **"Sending Profiles"** section. Here you'll see:

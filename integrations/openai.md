@@ -1,6 +1,6 @@
 # Connecting OpenAI for Outreach Personalization
 
-![Integrations Overview](assets/openai-01.png)
+![Integrations Overview](../assets/openai-01.png)
 
 OpenAI is the brain behind your outreach. By integrating it with MassProspecting, you leverage advanced LLMs (Large Language Models) to generate hyper-personalized first lines and intelligent replies. It also analyzes lead signals to score and prioritize who is most likely to engage, transforming your outreach from generic blasts into meaningful, context-aware conversations.
 
@@ -16,7 +16,7 @@ On the integrations page, you'll see the status of the OpenAI service. The inter
 *   **Self-service slots (`self`)**: Available for your own API connections.
 *   **DFY slots (`dfy` or `#y`)**: Managed by the MassProspecting team.
 
-![Connected OpenAI Status](assets/openai-03.png)
+![Connected OpenAI Status](../assets/openai-03.png)
 
 The notation indicates:
 *   `(self: X/Y)` - Your available/used self-service slots (e.g., `0/1` or `1/1`).
@@ -27,7 +27,7 @@ The notation indicates:
 Find an available **self-service** slot and click the **plus button (+)** to add your API key.
 
 ### 4. Enter Your API Key
-![Connect OpenAI Modal](assets/openai-02.png)
+![Connect OpenAI Modal](../assets/openai-02.png)
 
 A modal will appear prompting you to enter your OpenAI API Key.
 
@@ -44,7 +44,7 @@ A modal will appear prompting you to enter your OpenAI API Key.
 ### 5. Managing Your Connection
 To release an occupied slot (e.g., to use a new API key), click the **Disconnect** button associated with that specific slot.
 
-![Disconnect Button](assets/openai-03.png)
+![Disconnect Button](../assets/openai-03.png)
 
 ## Key Benefits: AI-Powered Outreach
 

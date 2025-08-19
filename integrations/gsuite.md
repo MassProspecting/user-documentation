@@ -1,6 +1,6 @@
 # Connecting GSuite for Sending Cold Emails
 
-![Integrations Overview](assets/gsuite-01.png)
+![Integrations Overview](../assets/gsuite-01.png)
 
 GSuite (now Google Workspace) integration is designed for scaling your outreach operations. By connecting your professional email domains, you can send cold emails at scale, centralize reply tracking, and manage multi-inbox outreach campaigns from a single dashboard while maintaining brand consistency and domain authority.
 
@@ -25,7 +25,7 @@ The notation indicates:
 Find an available **self-service** slot and click the **plus button (+)** to add your email credentials.
 
 ### 4. Enter Your Email and App Password
-![Connect GSuite Modal](assets/gsuite-02.png)
+![Connect GSuite Modal](../assets/gsuite-02.png)
 
 You'll be prompted to enter your GSuite (Google Workspace) email address and an App Password.
 

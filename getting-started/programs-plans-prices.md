@@ -18,7 +18,7 @@
 ## 1. Scraping DFY 
 *"We scrape. You celebrate."*  
 
-![Scraping DFY plan of MassProspecting](assets/plans-01.png)
+![Scraping DFY plan of MassProspecting](../assets/plans-01.png)
 
 **Perfect for:** Businesses who want **ready-to-use contact data** (emails, LinkedIn profiles, etc.) without lifting a finger.  
 
@@ -40,7 +40,7 @@
 ## 2. Outreach SaaS
 *"You're in the driver's seat."*  
 
-![Outreach SaaS plan of MassProspecting](assets/plans-02.png)
+![Outreach SaaS plan of MassProspecting](../assets/plans-02.png)
 
 **Perfect for:** Teams who **love control** and want to manage outreach manually (but with slick tools).  
 
@@ -66,7 +66,7 @@
 ## 3. Outreach DFY
 *"We do everything. You take credit."*  
 
-![Outreach DFY plan of MassProspecting](assets/plans-03.png)
+![Outreach DFY plan of MassProspecting](../assets/plans-03.png)
 
 **Perfect for:** Busy pros who want **hands-free campaigns** (scraping, emails, follow-ups—all automated).  
 

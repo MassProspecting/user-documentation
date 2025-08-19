@@ -22,7 +22,7 @@ These fields appear in the download CSV as column headers like:
 
 📷 Example:
 
-![Personalization Fields](assets/personalisation-05.png)
+![Personalization Fields](../assets/personalisation-05.png)
 
 ---
 

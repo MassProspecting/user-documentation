@@ -1,6 +1,6 @@
 # Setting Up FollowUp Sequences
 
-![Campaign Overview](assets/followups-01.png)
+![Campaign Overview](../assets/followups-01.png)
 
 FollowUp sequences are the heart of your automated outreach campaigns. They allow you to design multi-touch message sequences that get delivered automatically, with AI-powered personalization that dramatically increases engagement and reply rates.
 
@@ -17,7 +17,7 @@ Find the campaign you want to configure from your list of existing campaigns. Ea
 Click the **"View FollowUps"** link on your campaign card to access the message sequence configuration.
 
 ### 4. Configure Your FollowUp Sequence
-![FollowUp Configuration](assets/followups-02.png)
+![FollowUp Configuration](../assets/followups-02.png)
 
 The FollowUps screen allows you to build a multi-step messaging sequence:
 

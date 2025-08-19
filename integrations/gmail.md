@@ -1,6 +1,6 @@
 # Connecting GMail for Sending Cold Emails
 
-![Integrations Overview](assets/gmail-01.png)
+![Integrations Overview](../assets/gmail-01.png)
 
 GMail integration is your outreach engine. Connecting your GMail accounts allows MassProspecting to send personalized cold emails, track replies, and manage conversations directly from your inbox. This setup is crucial for running effective email campaigns while maintaining control over your sending domains.
 
@@ -25,7 +25,7 @@ The notation indicates:
 Find an available **self-service** slot and click the **plus button (+)** to add your email credentials.
 
 ### 4. Enter Your Email and App Password
-![Connect GMail Modal](assets/gmail-02.png)
+![Connect GMail Modal](../assets/gmail-02.png)
 
 You'll be prompted to enter your GMail address and an App Password (not your regular Gmail password).
 
