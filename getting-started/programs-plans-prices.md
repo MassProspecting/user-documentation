@@ -26,7 +26,7 @@
 ✔ **LinkedIn Scraping** (Find your dream clients.)  
 ✔ **Data Enrichment** (We fill in the blanks.)  
 ✔ **Email Verification** (No more "bounce-o-rama".)  
-✔ **Priority Support** (We've got your back.)  
+✔ **Priority Support for Highest Plan** (We've got your back.)  
 
 ### Pricing (Pay Less Per Credit as You Grow!)  
 | Plan    | Credits/Month | Cost | Price/Credit |  
@@ -46,13 +46,15 @@
 
 ### What's Included?  
 📌 Connect email/social accounts  
+📌 Scrape LinkedIn leads with your own social accounts (3K–15K)
 📌 Upload contacts (3K–15K)  
-📌 Apollo/Reoon integrations  
+📌 Apollo, Reoon and OpenAI integrations  
+📌 Priority Support for Highest Plan
 
 ### What's *Not* Included?  
-✘ No auto-scraping  
-✘ No data enrichment  
-✘ No priority support  
+✘ No social accounts providing
+✘ No email accounts providing
+✘ No built-in integrations
 
 ### Pricing  
 | Plan    | Credits | Email Accounts | Social Accounts | Contacts | Cost |  
@@ -73,7 +75,7 @@
 ### What's Included?  
 ✔ **Everything in Scraping DFY** (data, enrichment, etc.)  
 ✔ **Full Outreach System** (emails, sequences, tracking)  
-✔ **Priority Support** (Jump the queue!)  
+✔ **Priority Support for Growth and Scale plans** (Jump the queue!)  
 
 ### Pricing  
 | Plan    | Credits | Email Accounts | Social Accounts | Contacts | Cost  |  
