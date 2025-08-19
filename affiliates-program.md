@@ -19,11 +19,11 @@ Join our affiliate program and earn a 15% recurring commission for every custome
 
 From the main dashboard, click the “Affiliates” button:
 
-![Open Affiliate Panel](../../assets/affiliates-01.png)
+![Open Affiliate Panel](assets/affiliates-01.png)
 
 Your personal affiliate link will be shown and copied instantly when you click on it.
 
-![Affiliate Link Copied](../../assets/affiliates-02.png)
+![Affiliate Link Copied](assets/affiliates-02.png)
 
 Paste it anywhere: LinkedIn DMs, Twitter threads, newsletters, Facebook groups — anywhere your audience lives.
 
@@ -33,7 +33,7 @@ Paste it anywhere: LinkedIn DMs, Twitter threads, newsletters, Facebook groups �
 
 You’ll also see a live breakdown of your affiliate performance:
 
-![Affiliate Stats Panel](../../assets/affiliates-03.png)
+![Affiliate Stats Panel](assets/affiliates-03.png)
 
 | Metric                | Description |
 |-----------------------|-------------|

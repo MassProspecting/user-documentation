@@ -10,7 +10,7 @@ There are two possible reasons for this:
 
 If your account runs out of data-credits, your scraping order will be paused until you recharge.
 
-![Insufficient Credits](../../assets/alerts-01.png)
+![Insufficient Credits](assets/alerts-01.png)
 
 In this case:
 
@@ -26,7 +26,7 @@ In this case:
 
 If the system detects your filters are yielding very few valid leads (e.g. valid emails or leads who pass your filters), the order will be paused and you have to create a better performing order.
 
-![Low Performance](../../assets/alerts-02.png)
+![Low Performance](assets/alerts-02.png)
 
 This may happen when:
 
