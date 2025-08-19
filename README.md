@@ -2,9 +2,9 @@
 
 **( Just an AI-Driven, Multi-Channel Outreach System )** 🤖✨
 
-# MassProspecting: AI-Powered Lead Generation & Outreach Automation
+MassProspecting is an all-in-one platform that automates the entire sales prospecting lifecycle. 
 
-MassProspecting is an all-in-one platform that automates the entire sales prospecting lifecycle. We combine AI-driven data scraping, multi-channel enrichment, and personalized outreach to help you find, verify, and engage high-quality leads—all while you focus on building relationships and closing deals.
+We combine AI-driven data scraping, multi-channel enrichment, and personalized outreach to help you find, verify, and engage high-quality leads—all while you focus on building relationships and closing deals.
 
 **TL;DR:** We handle the complex tech; you nurture the connections.
 
