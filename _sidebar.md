@@ -1,6 +1,6 @@
 - **Getting Started**
   - [Signin Up](signin-up.md)
-  - [Password Reset](signin-up.md)
+  - [Password Reset](reset-password.md)
   - [Programs, Plans and Prices](programs-plans-prices.md)
 
 - **Scraping**
