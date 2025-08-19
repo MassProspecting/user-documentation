@@ -22,12 +22,7 @@
 - **Messaging**
   - [FollowUps](followups.md)
   - [MasterBox](masterbox.md)
-
-- **API**
-  - [Introduction](intro.md)
-  - [Leads API](leads.md)
-  - [Accounts API](accounts.md)
-  - [Tags API](tags.md)
+  - [Leads](leads.md)
 
 - **Affiliates**
-  - [Affiliates Program](6-affiliates-program.md)
+  - [Affiliates Program](affiliates-program.md)
