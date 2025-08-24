@@ -19,7 +19,7 @@ Our FAQ covers topics like:
 
 If you couldn't find the answer in our FAQ or need personalized assistance, our support team is ready to help!
 
-**Email us at:** [hello@massprospecting.com](mailto:hello@massprospecting.com)
+**Email us at:** [support@massprospecting.zohodesk.com](mailto:support@massprospecting.zohodesk.com)
 
 We typically respond within **24 hours** for general inquiries.
 
