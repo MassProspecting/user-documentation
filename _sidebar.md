@@ -3,7 +3,8 @@
   - [Password Reset](getting-started/reset-password.md)
   - [Programs, Plans and Prices](getting-started/programs-plans-prices.md)
   - [FAQs](getting-started/faqs.md)
-
+  - [Support](getting-started/support.md)
+  
 - **Scraping**
   - [Placing a Scraping Order](scraping/placing-a-scraping-order.md)
   - [Check Your Orders](scraping/check-your-orders.md)
