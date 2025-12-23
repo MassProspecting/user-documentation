@@ -1,74 +1,70 @@
-## Privacy Policy
+
+## Terms & conditions
 Effective Date: 07/21/2024
 
 ### Introduction
-MassProspecting ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and share information about you when you use our website located at [massprospecting.com](https://massprospecting.com) (the "Site") and the MassProspecting service (collectively, the "Service").
+Welcome to MassProspecting, an automation tool designed to help users grow their businesses through multiple channels. These Terms of Service ("Terms") govern your use of our website located at [massprospecting.com](https://massprospecting.com) (the "Site") and the MassProspecting service (collectively, the "Service").
 
-By using the Service, you agree to the collection and use of information in accordance with this Privacy Policy. If you do not agree with our policies and practices, do not use the Service.
+By accessing or using the Service, you agree to be bound by these Terms. If you do not agree to these Terms, you may not access or use the Service.
 
-### Information We Collect
-We collect several types of information from and about users of our Service, including:
+### Service Description
+MassProspecting is a growth automation tool that helps users:
 
-### Information You Provide to Us
-- **Account Information:** When you register for an account, we collect your name, email address, and other information you provide.
+- Grow their businesses and generate more leads, sales, and revenue through multiple channels.
 
-- **Payment Information:** If you subscribe to our Service, we collect payment information, including credit card details and billing address.
+- Scrape leads data and intent signals from different sources to find ideal clients and add them to cold DM outreach campaigns.
 
-### Information We Collect Automatically
-- **Usage Information:** We collect information about your interactions with the Service, such as the features you use and the actions you take.
+- Use artificial ingelligence for automating outreach messaging, conversations management and workflow decisions.
 
-- **Device Information:** We collect information about the device you use to access the Service, including IP address, browser type, and operating system.
+MassProspecting offers a 15-day free trial and a monthly subscription to use the product.
 
-### Information from Third Parties
-To perform actions on your behalf, we access your social profiles, email accounts and/or other software services information, including your contats list, group memberships, conversations and other relevant data.
+### Account Registration
+To use the Service, you must create an account by providing accurate and complete information. You are responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account. You must notify us immediately at [hello@massprospecting.com](mailto:hello@massprospecting.com) of any unauthorized use of your account.
 
-### How We Use Your Information
-We use the information we collect to:
+### Free Trial and Subscription
+Free Trial: MassProspecting offers a 15-day free trial. During this period, you can access and use the Service without charge.
 
-- Provide, operate, and maintain the Service.
+Subscription: After the free trial, continued use of the Service requires a monthly subscription. Subscription details, including pricing and billing, are available on the Site.
 
-- Process your account registration and manage your subscription.
+### Access and Use of Profiles
+To perform actions on your behalf, MassProspecting may requires access to your social profiles, email accounts and/or other software services. By using the Service, you grant MassProspecting permission to access your social profiles, email accounts and/or other software services to:
 
-- Improve, personalize, and expand our Service.
+- Scrape intent signals for potential clients.
 
-- Communicate with you, including responding to your inquiries and sending you updates and marketing materials.
+- Add potential clients to DM outreach campaigns.
 
-- Monitor and analyze usage and trends to improve your experience with the Service.
+- Manage messaging, conversations and workflow decisions using AI. 
 
-- Detect, prevent, and address technical issues and security breaches.
+You are responsible for complying with the terms of service and community guidelines of your social profiles, email accounts and/or other software services while using MassProspecting.
 
-### How We Share Your Information
-We do not sell or rent your personal information to third parties. We may share your information in the following circumstances:
+### Acceptable Use
+You agree to use the Service in compliance with all applicable laws and regulations. You must not:
 
-- Service Providers: We may share your information with third-party service providers who perform services on our behalf, such as payment processing and data analysis.
+- Use the Service for any illegal or unauthorized purpose.
 
-- Legal Requirements: We may disclose your information if required to do so by law or in response to valid requests by public authorities.
+- Interfere with or disrupt the Service or servers or networks connected to the Service.
 
-- Business Transfers: If we are involved in a merger, acquisition, or asset sale, your information may be transferred as part of that transaction.
+- Engage in any activity that could harm or damage the reputation of MassProspecting.
 
-### Data Security
-We take reasonable measures to protect the information we collect from loss, theft, misuse, and unauthorized access, disclosure, alteration, and destruction. However, please be aware that no method of transmission over the Internet or method of electronic storage is 100% secure.
+### Termination
+We may terminate or suspend your access to the Service immediately, without prior notice or liability, for any reason, including if you breach these Terms. Upon termination, your right to use the Service will immediately cease.
 
-### Your Data Rights
-Depending on your location, you may have the following rights regarding your personal information:
+### Disclaimer of Warranties
+The Service is provided on an "as is" and "as available" basis. MassProspecting disclaims all warranties, whether express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, and non-infringement. MassProspecting does not warrant that the Service will be uninterrupted, secure, or error-free.
 
-- **Access:** You can request access to the personal information we hold about you.
+### Limitation of Liability
+In no event shall MassProspecting, its directors, employees, or agents be liable for any indirect, incidental, special, consequential, or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from:
 
-- **Correction:** You can request that we correct or update your personal information.
+- Your use or inability to use the Service.
 
-- **Deletion:** You can request that we delete your personal information.
+- Any unauthorized access to or use of our servers and/or any personal information stored therein.
 
-- **Objection:** You can object to the processing of your personal information.
+- Any interruption or cessation of transmission to or from the Service.
 
-To exercise any of these rights, please contact us at [hello@massprospecting.com](mailto:hello@massprospecting.com). We will respond to your request within a reasonable timeframe.
-
-### Third-Party Links
-The Service may contain links to third-party websites or services that are not owned or controlled by MassProspecting. We are not responsible for the privacy practices of these third parties. We encourage you to review the privacy policies of any third-party websites or services you visit.
-
-### Changes to This Privacy Policy
-We may update this Privacy Policy from time to time. If we make material changes, we will notify you by email or by posting a notice on the Site prior to the changes becoming effective. Your continued use of the Service after any such changes constitutes your acceptance of the new Privacy Policy.
+### Changes to Terms
+We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material, we will provide at least 30 days' notice prior to any new terms taking effect. Your continued use of the Service after any such changes constitutes your acceptance of the new Terms.
 
 ### Contact Us
-If you have any questions about this Privacy Policy, please contact us at (hello@massprospecting.com)[mailto:hello@massprospecting.com].
+If you have any questions about these Terms, please contact us at [hello@massprospecting.com](mailti:hello@massprospecting.com).
 
 Effective Date: 07/21/2024
