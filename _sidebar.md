@@ -1,6 +1,8 @@
 - **Getting Started**
   - [Signin Up](getting-started/signin-up.md)
   - [Password Reset](getting-started/reset-password.md)
+
+<!--
   - [Programs, Plans and Prices](getting-started/programs-plans-prices.md)
   - [FAQs](getting-started/faqs.md)
   - [Support](getting-started/support.md)
@@ -28,3 +30,8 @@
 
 - **Affiliates**
   - [Affiliates Program](affiliates/affiliates-program.md)
+-->
+
+- **Legal**
+  - [Terms & Conditions](legal/terms.md)
+  - [Privacy Policy](legal/privacy.md)
