@@ -5,6 +5,11 @@
 
 - **Agency**
   - [Starting Trial](agency/starting-trial.md)
+  - [Managing Subscriptions](agency/managing-credits.md)
+
+- **Legal**
+  - [Terms & Conditions](legal/terms.md)
+  - [Privacy Policy](legal/privacy.md)
 
 <!--
   - [Programs, Plans and Prices](getting-started/programs-plans-prices.md)
@@ -35,7 +40,3 @@
 - **Affiliates**
   - [Affiliates Program](affiliates/affiliates-program.md)
 -->
-
-- **Legal**
-  - [Terms & Conditions](legal/terms.md)
-  - [Privacy Policy](legal/privacy.md)
