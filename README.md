@@ -1,6 +1,8 @@
 # MassProspecting
 
-**( Just an AI-Driven, Multi-Channel Outreach System )** 🤖✨
+TL;DR - **MassProspecting** guarantees 25 warm leads every month. Outreach starts immediately after signup — no tech, no setup required. Just conversations delivered directly to your inbox.
+
+---
 
 **MassProspecting** is an **AI-powered** and **done-for-you** lead generation and **outreach platform**.
 
