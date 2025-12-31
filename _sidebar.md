@@ -1,6 +1,10 @@
 - **Getting Started**
-  - [Signin Up](getting-started/signin-up.md)
+  - [User SigUp](getting-started/user-signup.md)
   - [Password Reset](getting-started/reset-password.md)
+  - [User LogIn](getting-started/user-login.md)
+
+- **Agency**
+  - [Starting Trial](agency/starting-trial.md)
 
 <!--
   - [Programs, Plans and Prices](getting-started/programs-plans-prices.md)
