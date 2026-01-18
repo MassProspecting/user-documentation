@@ -24,7 +24,7 @@ Keep track of your active subscriptions and ensure your campaigns run smoothly.
 ## Resolving Insufficient Credits
 
 1. If your campaign is paused due to insufficient credits, you will see a warning message.  
-   - Add credits to resume the campaign.
+   - _Paused due to insufficient credits._
 
 ---
 

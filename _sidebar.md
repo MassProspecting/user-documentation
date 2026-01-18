@@ -7,6 +7,7 @@
   - [Starting Trial](agency/starting-trial.md)
   - [Managing Subscriptions](agency/managing-credits.md)
   - [Creating New Campaign](agency/creating-campaign.md)
+  - [Settings](agency/settings.md)
 
 - **Legal**
   - [Terms & Conditions](legal/terms.md)
